@@ -1,5 +1,5 @@
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_ID = int(os.getenv("ADMIN_ID"))
-ADMIN_USERNAME = os.getenv("ADMIN_USERNAME")
+BOT_TOKEN = "7943500524:AAE3ErUJZwLv7aS9XVzl0nbq_roLKUpYFKc"
+ADMIN_ID = 7451586259
+ADMIN_USERNAME = "boss_chata"
